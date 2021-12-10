@@ -9,6 +9,9 @@
 ### Connect link 🤝
 <a href="https://www.linkedin.com/in/ana-sofia-moreno-nunez"><img src="https://raw.githubusercontent.com/anasofiamoreno/anasofiamoreno/main/linkedin.png" alt="Ana Sofia" width="30px" align=”left”></a>
 
+<a href="anasofiamorenonunez@outlook.com"><img src="https://github.com/anasofiamoreno/anasofiamoreno/blob/218a98f2d71b0872413f87ca01cd7a44a95f7221/Outlook.png" alt="Ana Sofia" height="30px" align=”left”></a>
+
+
 
 
 
