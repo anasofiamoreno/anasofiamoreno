@@ -6,7 +6,7 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<a href=”https://www.linkedin.com/in/ana-sofia-moreno-nunez/"><img align=”left” src=”https://raw.githubusercontent.com/anasofiamoreno/anasofiamoreno/main/linkedin.png" alt=”Ana Sofia | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/ana-sofia-moreno-nunez/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=anasofiamoreno)](https://github.com/yushi1007)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasofiamoreno&layout=compact)](https://github.com/yushi1007)
