@@ -6,7 +6,7 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<img src="https://pbs.twimg.com/media/EiAuAS8VoAA1-4T?format=jpg&name=large" alt="JuveR" width="300px">
+<img src="https://raw.githubusercontent.com/anasofiamoreno/anasofiamoreno/main/linkedin.png" alt="JuveR" width="300px">
 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=anasofiamoreno)](https://github.com/yushi1007)
