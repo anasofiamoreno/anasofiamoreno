@@ -8,6 +8,7 @@
 
 ### Connect link 🤝
 <a href="https://www.linkedin.com/in/ana-sofia-moreno-nunez"><img src="https://raw.githubusercontent.com/anasofiamoreno/anasofiamoreno/main/linkedin.png" alt="Ana Sofia" width="30px" align=”left”></a>
+
 <a href="https://www.codewars.com/users/anasofiamoreno"><img src="https://www.codewars.com/users/anasofiamoreno/badges/large" alt="Ana Sofia" align=”left”></a>
 
 
